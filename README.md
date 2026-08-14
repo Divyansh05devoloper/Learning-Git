@@ -1,2 +1,3 @@
 # Learning-Git
-My learnig Repo of Git and Github
+My learning Repo of Git and Github
+Author : Divyansh Goswami
